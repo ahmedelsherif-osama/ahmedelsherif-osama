@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Elsherif 👋
+# Hi, I'm Ahmed Elsherif
 
 ### Machine Learning Engineer | Python | Applied AI
 
